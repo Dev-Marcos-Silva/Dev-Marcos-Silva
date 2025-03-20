@@ -15,7 +15,7 @@
   <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
   <img width="24" />
-  <img src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" height="60" alt="express logo"  />
+  <img src="https://icon.icepanel.io/Technology/svg/Express.svg" height="60" alt="express logo"  />
   <img width="24" />
   <img src="https://icon.icepanel.io/Technology/svg/Fastify.svg" height="60" alt="express logo"  />
   <img width="24" />
