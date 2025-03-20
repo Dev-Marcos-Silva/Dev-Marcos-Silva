@@ -35,7 +35,6 @@
 </div>
 
 ###
-<br/>
 
 <div align="left">
   <a href="https://www.instagram.com/_marcoss.v/" target="_blank">
